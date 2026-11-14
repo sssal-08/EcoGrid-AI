@@ -7,7 +7,7 @@ Built for the **Decoding Data Science — Building Agentic AI Application Challe
 ---
 
 ## 🔗 Quick Links
-- **Live App Demo (Lovable):** `https://lovable.dev/preview/Vlm2KWEjSRVuTG8AMYDcLxzl7zXFfGgS`
+- **Live App Demo (Lovable):** `https://ecogrid-sallysohieb.lovable.app`
 - **Progress Workbook:** Included in this repository 
 
 ---
